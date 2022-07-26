@@ -9,16 +9,16 @@
  
   ###### Proyectos actuales
  <div>
- ⚡  <a href="https://ruddypazd.com">En este momento</a>
+ ⚡  <a href="https://ruddypazd.com/">En este momento</a>
  </div>
  <div>
- 🔭 <a href="https://demo.ibrokers.cloud">Ibrokers</a> 
+ 🔭 <a href="https://demo.ibrokers.cloud/">Ibrokers</a> 
  </div>
  <div>
-  🔭 <a href="https://tocars.ibrokers.cloud">Tocars</a>
+  🔭 <a href="https://tocars.ibrokers.cloud/">Tocars</a>
  </div>
  <div>
-  🔭 <a href="https://www.unibrosa.net.bo">Unibrosa</a>
+  🔭 <a href="https://www.unibrosa.net.bo/">Unibrosa</a>
  </div>
  <div>
   🔭 <a href="https://icompany.segurosmsc.com/">Icompany</a>
