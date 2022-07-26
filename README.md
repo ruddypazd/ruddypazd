@@ -1,4 +1,6 @@
-<img alr="" src="https://ruddypazd.com/imagesAdmin/6340999"/>
+<div style="text-align:center;">
+ <img alr="" src="https://ruddypazd.com/imagesAdmin/6340999"/>
+<div>
 
 
 ### Hi there 👋
