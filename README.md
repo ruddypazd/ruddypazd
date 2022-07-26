@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div  align="center">
  <img alr="" src="https://ruddypazd.com/imagesAdmin/6340999"/>
  <div>
   Roy Ruddy Paz Demiquel
