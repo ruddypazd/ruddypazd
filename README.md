@@ -1,4 +1,4 @@
-<img alr="" src="https://irokers.cloud/imagesAdmin/6340999"/>
+<img alr="" src="https://ruddypazd.com/imagesAdmin/6340999"/>
 
 
 ### Hi there 👋
