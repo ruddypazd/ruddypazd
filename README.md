@@ -1,9 +1,12 @@
 <div style="text-align:center;">
  <img alr="" src="https://ruddypazd.com/imagesAdmin/6340999"/>
+ <div>
+  Roy Ruddy Paz Demiquel
+  </div>
 <div>
 
 
-### Hi there 👋
+ ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://ruddypazd.com" >[aquí](https://ruddypazd.com)</a> 👋
 
 <!--
 **ruddypazd/ruddypazd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
