@@ -27,7 +27,7 @@
   🔭 <a href="https://calisteniabolivia.com/">Calistenia</a>
  </div>
  <div>
-  🔭 <a href="https://casagrande.com/">Casa Grande</a>
+  🔭 <a href="https://casagrande.servisofts.com/">Casa Grande</a>
  </div>
  
  
