@@ -8,7 +8,6 @@
  
  
   ###### Proyectos actuales
-  <div style='display:flex'>
  <div>
  ⚡  <a href="https://ruddypazd.com/">En este momento</a>
  </div>
@@ -29,7 +28,6 @@
  </div>
  <div>
   🔭 <a href="https://casagrande.servisofts.com/">Casa Grande</a>
- </div>
  </div>
  
  
