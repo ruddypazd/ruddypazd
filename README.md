@@ -5,8 +5,8 @@
 ## 🛠 Tecnologías y Herramientas
 ![](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![](https://img.shields.io/badge/Code-Java-white)
-![](https://img.shields.io/badge/Code-JavaScript-yellow)
-![](https://img.shields.io/badge/Tools-React-blue)
+![](https://img.shields.io/badge/Bd-Postgres-blue)
+![](https://img.shields.io/badge/Bd-Oracle-red)
 ![](https://img.shields.io/badge/Deploy-Docker-blue)
 
 
