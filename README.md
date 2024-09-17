@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Bd-Postgres-blue)
 ![](https://img.shields.io/badge/Bd-Oracle-red)
 ![](https://img.shields.io/badge/Deploy-Docker-blue)
-
+![](https://img.shields.io/badge/SO-Lunix-yellow)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
