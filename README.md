@@ -2,7 +2,7 @@
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
  
  
  ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://ruddypazd.com" >https://ruddypazd.com</a> 👋
