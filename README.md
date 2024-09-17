@@ -15,44 +15,18 @@
 > "La simplicidad es la sofisticación definitiva." - Leonardo da Vinci
 
  
-<div  align="center">
- 
  ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://ruddypazd.com" >https://ruddypazd.com</a> 👋
  
  
   ###### Proyectos actuales
- <div>
- ⚡  <a href="https://ruddypazd.com/">En este momento</a>
- </div>
- <div>
- 🔭 <a href="https://demo.ibrokers.cloud/">Ibrokers</a> 
- </div>
- <div>
-  🔭 <a href="https://tocars.ibrokers.cloud/">Tocars</a>
- </div>
- <div>
-  🔭 <a href="https://www.unibrosa.net.bo/">Unibrosa</a>
- </div>
- <div>
-  🔭 <a href="https://icompany.segurosmsc.com/">Icompany</a>
- </div>
- <div>
-  🔭 <a href="https://calisteniabolivia.com/">Calistenia</a>
- </div>
- <div>
-  🔭 <a href="https://casagrande.servisofts.com/">Casa Grande</a>
- </div>
- <div>
-  🔭 <a href="https://darmotos.servisofts.com/">DarMotos</a>
- </div>
- <div>
-  🔭 <a href="https://servisofts.com/">Servisofts Srl.</a>
- </div>
  
+- [https://ruddypazd.com/](https://ruddypazd.com/)
+- [https://www.unibrosa.net.bo/](https://www.unibrosa.net.bo/)
+- [https://icompany.segurosmsc.com/](https://icompany.segurosmsc.com/)
+- [https://calisteniabolivia.com/](https://calisteniabolivia.com/)
+- [https://serp.servisofts.com/](https://serp.servisofts.com/)
+- [https://info.tapekeapp.com/](https://info.tapekeapp.com/)
  
- <div>
-  Roy Ruddy Paz Demiquel
-  </div>
   
   <p align="center">
    <a href="https://www.twitch.tv/ruddypazd" target="blank" style='margin-right:4px'>
