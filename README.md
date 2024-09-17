@@ -1,7 +1,7 @@
 <div  align="center">
 
 
- <img alr="" src="https://ruddypazd.com/imagesAdmin/6340999"/>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
  
  
  ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://ruddypazd.com" >https://ruddypazd.com</a> 👋
