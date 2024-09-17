@@ -1,6 +1,13 @@
 # ¡Hola, soy Ruddy! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+## 🛠 Tecnologías y Herramientas
+![](https://img.shields.io/badge/Code-JavaScript-yellow)
+![](https://img.shields.io/badge/Tools-React-blue)
+![](https://img.shields.io/badge/Deploy-Docker-blue)
+
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
  
