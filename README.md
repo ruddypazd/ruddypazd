@@ -1,9 +1,10 @@
-<div  align="center">
+# ¡Hola, soy Ruddy! 👋
 
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
  
+<div  align="center">
  
  ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://ruddypazd.com" >https://ruddypazd.com</a> 👋
  
