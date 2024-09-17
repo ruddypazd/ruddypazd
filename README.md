@@ -10,8 +10,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-## 📊 Mis Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario)
+> "La simplicidad es la sofisticación definitiva." - Leonardo da Vinci
 
  
 <div  align="center">
@@ -70,7 +69,7 @@
 <div>
 
 
- 
+ ## 🙏 Gracias por visitar mi perfil!
 
 <!--
 **ruddypazd/ruddypazd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
