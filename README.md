@@ -12,7 +12,12 @@
 > "La simplicidad es la sofisticación definitiva." - Leonardo da Vinci
 
  ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://ruddypazd.com" >https://ruddypazd.com</a> 👋
- 
+
+
+ <video controls>
+  <source src="https://drive.servisofts.com/http/videos/CD3D/publicity0001-0330.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
  
   ###### Proyectos actuales
  
