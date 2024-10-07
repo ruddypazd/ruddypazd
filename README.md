@@ -11,8 +11,6 @@
 
 > "La simplicidad es la sofisticación definitiva." - Leonardo da Vinci
 
-<video src='https://drive.servisofts.com/http/videos/servisofts001.mp4'></video>
- 
  ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://ruddypazd.com" >https://ruddypazd.com</a> 👋
  
  
