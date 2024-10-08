@@ -15,17 +15,39 @@
 
  
   ###### Proyectos actuales
- 
-- [https://ruddypazd.com/](https://ruddypazd.com/)
-- [https://www.unibrosa.net.bo/](https://www.unibrosa.net.bo/)
-- [https://icompany.segurosmsc.com/](https://icompany.segurosmsc.com/)
+
+
 - [https://calisteniabolivia.com/](https://calisteniabolivia.com/)
+![image](https://github.com/user-attachments/assets/ab387eee-1ac4-4f15-aed4-4a2b53381a94)
+
+
 - [https://serp.servisofts.com/](https://serp.servisofts.com/)
-- [https://info.tapekeapp.com/](https://info.tapekeapp.com/)
+ ![image](https://github.com/user-attachments/assets/c5306542-1a99-4c39-981b-46c3de152cca)
+
+
+
 - [https://staffprousa.servisofts.com/](https://staffprousa.servisofts.com/)
+![image](https://github.com/user-attachments/assets/c11a758a-b863-4931-b985-518b98c2072e)
+
+
 - [https://kolping.servisofts.com/](https://kolping.servisofts.com/)
+![image](https://github.com/user-attachments/assets/72d6ede4-fb4a-4557-a409-d86df1d5c5fe)
+
+
 - [https://dhm.servisofts.com/](https://dhm.servisofts.com/)
+![image](https://github.com/user-attachments/assets/18aac3fe-42d7-4384-9d62-131cf728c003)
+
+
+- [https://www.unibrosa.net.bo/](https://www.unibrosa.net.bo/)
+![image](https://github.com/user-attachments/assets/f861fb20-b9b0-4e7f-8f50-cd053641ea06)
+
+
+- [https://icompany.segurosmsc.com/](https://icompany.segurosmsc.com/)
+![image](https://github.com/user-attachments/assets/7dbf1a84-fd91-4d19-951e-e0ee7a42d966)
+
+
 - [https://info.tapekeapp.com/](https://info.tapekeapp.com/)
+
 ![image](https://github.com/user-attachments/assets/1d5cdb2c-9233-4b9c-8024-7339b3f1edc3)
 
   
