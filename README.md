@@ -16,6 +16,9 @@
  
   ###### Proyectos actuales
 
+- [https://info.tapekeapp.com/](https://info.tapekeapp.com/)
+
+![image](https://github.com/user-attachments/assets/1d5cdb2c-9233-4b9c-8024-7339b3f1edc3)
 
 - [https://calisteniabolivia.com/](https://calisteniabolivia.com/)
 
@@ -52,10 +55,6 @@
 
 ![image](https://github.com/user-attachments/assets/7dbf1a84-fd91-4d19-951e-e0ee7a42d966)
 
-
-- [https://info.tapekeapp.com/](https://info.tapekeapp.com/)
-
-![image](https://github.com/user-attachments/assets/1d5cdb2c-9233-4b9c-8024-7339b3f1edc3)
 
   
   <p align="center">
