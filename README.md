@@ -1,4 +1,4 @@
-# ¡Hola, soy Ruddy! 👋
+# ¡Hola, soy Ruddy Dev. Full Stack! 👋
 
 ## 🛠 Tecnologías y Herramientas
 ![](https://img.shields.io/badge/Code-JavaScript-yellow)
