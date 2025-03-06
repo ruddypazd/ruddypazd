@@ -15,6 +15,13 @@
 
  ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://ruddypazd.com" >https://ruddypazd.com</a> 👋
 
+
+### Statics
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ruddypazd&show_icons=true&theme=radical)
+
+
+
  
   ###### Proyectos actuales
 
