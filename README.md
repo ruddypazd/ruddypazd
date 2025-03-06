@@ -27,8 +27,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruddypazd&theme=radical)
 
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruddypazd)
-
 
  
   ###### Proyectos actuales
