@@ -23,11 +23,7 @@
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddypazd&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruddypazd&theme=radical)
 
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ruddypazd&theme=radical)
 
 
 
