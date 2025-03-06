@@ -21,6 +21,14 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ruddypazd&show_icons=true&theme=radical)
 
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddypazd&layout=compact&theme=radical)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruddypazd&theme=radical)
+
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruddypazd)
+
 
  
   ###### Proyectos actuales
