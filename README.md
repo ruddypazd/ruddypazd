@@ -1,5 +1,7 @@
 # ¡Hola, soy Ruddy Paz - Dev. Full Stack! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruddypazd&label=Profile%20views&color=0e75b6&style=flat" alt="ruddypazd" /> </p>
+
 ## 🛠 Tecnologías y Herramientas
 ![](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![](https://img.shields.io/badge/Code-Java-white)
