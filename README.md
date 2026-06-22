@@ -15,7 +15,7 @@
 
 > "La simplicidad es la sofisticación definitiva." - Leonardo da Vinci
 
- ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://ruddypazd.com" >https://ruddypazd.com</a> 👋
+ ### Hola si quieres ver en lo que estoy trabajando actualmente ingresa <a href="https://www.ruddypazd.com" >https://www.ruddypazd.com</a> 👋
 
 
 ### Statics
